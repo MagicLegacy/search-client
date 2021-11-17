@@ -1,0 +1,11 @@
+#~ Composer
+composer.phar
+composer.lock
+/vendor/
+
+#~ Tests
+build/
+.phpunit.result.cache
+
+#~ Misc
+.idea/
